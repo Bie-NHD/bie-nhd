@@ -11,7 +11,16 @@
 <br>
 
 ### My journey has been something like this:
-![](https://github.com/Bie-NHD/bie-nhd/blob/main/assets/mermaid-diagram-2023-03-18-113121.svg)
+
+```mermaid
+
+    flowchart LR
+
+    A[Pascal beginners]-->|1st yr|B[C/C++]
+    B-->|2nd yr| C[OOP C++] & D[Web essentials] & E[Java]
+
+
+```
 
 ## Socials
 [![](https://github.com/Bie-NHD/bie-nhd/blob/main/assets/icons8-twitter.svg)](https://twitter.com/Bie_003)
