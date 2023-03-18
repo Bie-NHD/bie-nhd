@@ -11,8 +11,8 @@
 <br>
 
 ### My journey has been something like this:
-![](assets\mermaid-diagram-2023-03-18-113121.svg)
+![](https://github.com/Bie-NHD/bie-nhd/blob/main/assets/mermaid-diagram-2023-03-18-113121.svg)
 
 ## Socials
-[![](assets\icons8-twitter.svg)](https://twitter.com/Bie_003)
-(Yes i infrquently do art)
+[![](https://github.com/Bie-NHD/bie-nhd/blob/main/assets/icons8-twitter.svg)](https://twitter.com/Bie_003)
+(Yes i infrequently do art)
