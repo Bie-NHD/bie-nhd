@@ -62,4 +62,3 @@ I started as a ***hobbyist illustrator*** before learning to code my first serio
 
 
 ```
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317nz4edd4wgq6mkzly5i66mof3m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=317nz4edd4wgq6mkzly5i66mof3m&redirect=true)
