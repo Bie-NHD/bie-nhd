@@ -4,7 +4,7 @@
 ## My backgrounds
 I started as a ***hobbyist illustrator*** before learning to code my first serious C++ school project in university
 
-*I still talk more of UI/UX than performance, a GUI person ~~sorry~~*
+~~*I still talk more of UI/UX than performance, a GUI person ~~sorry~~*~~ update May 2024: i suck at both
 
 ### My journey has been something like this:
 
