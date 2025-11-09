@@ -62,3 +62,8 @@ I started as a ***hobbyist illustrator*** before learning to code my first serio
 
 
 ```
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bie-nhd)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bie-nhd&layout=compact)
